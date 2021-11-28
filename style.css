@@ -36,8 +36,23 @@ h3 {
 	font-size: 16px;
 	font-family: 'Helvetica Neue';
 	position: absolute;
-	top: 10px;
+	top: -5px;
 	left: 585px;
+	background-color: white;
+	width: 270px;
+	height: 80px;
+	padding-left: 10px;
+	opacity: 0.75; 
+	padding-top: 10px;
+	border-radius: 12px;
+}
+.paragraph3 {
+	color: #171717;
+	font-size: 16px;
+	font-family: 'Helvetica Reg';
+	position: absolute;
+	top: 20px;
+	left: 905px;
 	background-color: white;
 	width: 270px;
 	height: 80px;
@@ -63,7 +78,15 @@ h3 {
 	width: 350px;
 	height: 335px;
 	position: absolute;
-	top: -180px;
+	top: -190px;
 	left: 550px;
+	border-radius: 12px;
+}
+.image3 {
+	width: 290px;
+	height: 280px;
+	position: absolute;
+	top: -150px;
+	left: 900px;
 	border-radius: 12px;
 }
