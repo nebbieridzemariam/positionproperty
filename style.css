@@ -16,9 +16,9 @@ h3 {
 	padding-top: 70px;
 	padding-left: 240px;
 }
-.paragraph {
+.paragraph1 {
 	color: #171717;
-	font-size: 18px;
+	font-size: 16px;
 	font-family: 'Helvetica Reg';
 	position: absolute;
 	top: 20px;
@@ -30,17 +30,40 @@ h3 {
 	opacity: 0.75; 
 	padding-top: 10px;
 	border-radius: 12px;
-
-
 }
+.paragraph2 {
+	color: #171717;
+	font-size: 16px;
+	font-family: 'Helvetica Neue';
+	position: absolute;
+	top: 10px;
+	left: 585px;
+	background-color: white;
+	width: 270px;
+	height: 80px;
+	padding-left: 10px;
+	opacity: 0.75; 
+	padding-top: 10px;
+	border-radius: 12px;
+}
+
+
 .container {
 	position: relative;
 }
-img {
+.image1 {
 	width: 300px;
 	height: 280px;
 	position: absolute;
 	top: -150px;
 	left: 240px;
+	border-radius: 12px;
+}
+.image2 {
+	width: 350px;
+	height: 335px;
+	position: absolute;
+	top: -180px;
+	left: 550px;
 	border-radius: 12px;
 }
