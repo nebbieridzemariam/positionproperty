@@ -6,7 +6,8 @@
 }
 header {
 	background-color: #0A22F4;
-	height: 308px;   
+	height: 308px; 
+	position: relative;  
 }
 h3 {
 	color: white;
@@ -14,4 +15,32 @@ h3 {
 	font-family: 'Helvetica Neue';
 	padding-top: 70px;
 	padding-left: 240px;
+}
+.paragraph {
+	color: #171717;
+	font-size: 18px;
+	font-family: 'Helvetica Reg';
+	position: absolute;
+	top: 20px;
+	left: 250px;
+	background-color: white;
+	width: 270px;
+	height: 80px;
+	padding-left: 10px;
+	opacity: 0.75; 
+	padding-top: 10px;
+	border-radius: 12px;
+
+
+}
+.container {
+	position: relative;
+}
+img {
+	width: 300px;
+	height: 280px;
+	position: absolute;
+	top: -150px;
+	left: 240px;
+	border-radius: 12px;
 }
